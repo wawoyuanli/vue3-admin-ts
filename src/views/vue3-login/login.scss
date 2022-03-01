@@ -1,0 +1,17 @@
+.account-login {
+    width           : 100vw;
+    min-height      : 100vh;
+    background-color: rgb(41, 35, 27);
+    margin          : 0 auto;
+    .login-title{
+        text-align: center;
+        padding-top: 13%;
+    }
+    .form-box{
+        width: 22%;
+        margin: 0 auto;
+    }
+}
+.whitecolor{
+    color: #fff;
+}
