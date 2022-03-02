@@ -5,7 +5,7 @@ const routes=[
     {
         path:'/',
         name:'vue3login',
-        component:()=>import('../views/vue3-login/vue3-login.vue'),
+        component:()=>import('../views/Login/index.vue'),
     },
     {
         path:'/home',
